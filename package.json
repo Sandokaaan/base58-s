@@ -1,0 +1,11 @@
+{
+  "name": "base58-s",
+  "version": "1.0.0",
+  "description": "Base58 encode/decode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandokaaan",
+  "license": "ISC"
+}
